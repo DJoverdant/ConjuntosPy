@@ -1,0 +1,7 @@
+2
+C
+G, I, G, N
+S, A, S 
+U
+F, B, I, 2, 4
+B, O, P, E
