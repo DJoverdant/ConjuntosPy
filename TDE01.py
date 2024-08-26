@@ -1,36 +1,5 @@
 # André Esteves Arantes
 
-# List_1.txt
-# 4
-# I
-# 1, 20, 32, 80
-# 50, 20
-# C
-# 10, C, 45, A, 80
-# K, 5, 80, L
-# D
-# K, G, B, 56, 9
-# C, I, A, 70, 56
-# U
-# M, O, S, S, A, D
-# B, O, P, E
-
-# List_2.txt
-# 2
-# C
-# G, I, G, N
-# S, A, S
-# U
-# F, B, I, 2, 4
-# B, O, P, E
-
-# List_3.txt
-# 1
-# I
-# R, 90, 200, H
-# 44, 33, 19, 47, H, 90
-
-
 def lists_function(mode):  #Escolha de arquivo
 
     if mode == 1:
